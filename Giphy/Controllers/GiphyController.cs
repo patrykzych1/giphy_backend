@@ -21,7 +21,6 @@ namespace Giphy.Controllers
         {
             try
             {
-                
                 var result = await _service.GetAsync(giphySearchRequest);
                 var res = result?.Data?.Select(x => x.ToDto()).ToList();
                 return Ok(res);
