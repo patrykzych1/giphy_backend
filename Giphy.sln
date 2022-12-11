@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giphy", "Giphy\Giphy.csproj", "{1A9A11C2-7AA7-4979-8413-21FEAF09D588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giphy.Test", "Giphy.Test\Giphy.Test.csproj", "{D36808C3-C8E0-4262-80EC-5D348D436499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A9A11C2-7AA7-4979-8413-21FEAF09D588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9A11C2-7AA7-4979-8413-21FEAF09D588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9A11C2-7AA7-4979-8413-21FEAF09D588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9A11C2-7AA7-4979-8413-21FEAF09D588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36808C3-C8E0-4262-80EC-5D348D436499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36808C3-C8E0-4262-80EC-5D348D436499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36808C3-C8E0-4262-80EC-5D348D436499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36808C3-C8E0-4262-80EC-5D348D436499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC69FEF7-8EE6-434C-BACB-EEDD7777E82A}
+	EndGlobalSection
+EndGlobal
